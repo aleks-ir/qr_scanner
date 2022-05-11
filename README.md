@@ -4,5 +4,5 @@ Applications for scanning qr codes and storing the data into an excel spreadshee
 
 #### Screenshots
 
-| <Image src="screenshots/0.png" width ="300">  | <Image src="screenshots/1.png" width ="300">  |
+| <Image src="screenshots/0.png" width ="100">  | <Image src="screenshots/1.png" width ="100">  |
 | :-------------------------------------------: | :-------------------------------------------: |
